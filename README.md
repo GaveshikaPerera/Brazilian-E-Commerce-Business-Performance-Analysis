@@ -1,4 +1,5 @@
 # Brazilian E-Commerce Business Performance Analysis
+<img width="1284" height="726" alt="image" src="https://github.com/user-attachments/assets/067f6021-4e96-4fc1-a639-853e0f668cfe" />
 
 ## Project Overview
 
@@ -53,7 +54,7 @@ The dataset contains information about orders, customers, order items, products,
 - Translating data into actionable business insights
 
 ## Project Status
-SQL analysis completed | Excel reporting completed 
+SQL analysis completed | Excel reporting completed | PowerBI Dashboard completed
 
 ## Author
 Gaveshika Perera
